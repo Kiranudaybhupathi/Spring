@@ -1,0 +1,20 @@
+my-spring-boot-app/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── example/
+│   │   │           └── todo/
+│   │   │               ├── controller/
+│   │   │               │   └── TodoController.java
+│   │   │               ├── model/
+│   │   │               │   └── Todo.java
+│   │   │               ├── repository/
+│   │   │               │   └── TodoRepository.java
+│   │   │               └── TodoApplication.java
+│   │   └── resources/
+│   │       ├── application.properties
+│   │       └── data.sql
+├── .gitignore
+├── pom.xml
+└── README.md
